@@ -1,0 +1,52 @@
+# Angaben ohne Gewähr #
+# Diese Daten dienen rein zu Testzwecken #
+# Diese spiegeln nur teilweise die tatsächlichen Werte der Fahrzeuge wider #
+
+
+Beispieldaten für das Fahrzeugverwaltungssystem
+
+
+Motorrad:
+
+Ducati Panigale V4
+Baujahr = 2025
+Beschleunigung 0-100km/h =  3,4 s
+Leistung (kW)/Leistung (PS) = 159 kW / 216 PS
+Höchstgeschwindigkeit = 260 km/h
+Kraftstoff = Benzin
+
+-----------------------------------------------
+
+Elektroautos:
+
+Porsche Taycan Turbo
+Baujahr = 2024
+Beschleunigung 0-100km/h = 2,7 s
+Leistung (kW)/Leistung (PS) = 520 kW / 707 PS
+Höchstgeschwindigkeit = 260 km/h
+Energiequelle = Strom
+
+VW ID.3
+Baujahr = 2023
+Beschleunigung 0-100 km/h = 7,6 s
+Leistung (kW)/Leistung (PS) = 150 kW / 204 PS
+Höchstgeschwindigkeit = 160 km/h
+Energiequelle = Strom
+
+-----------------------------------------------
+
+Autos:
+
+Porsche 911 Carrera
+Baujahr = 2025
+Beschleunigung 0-100 km/h = 4,1 s
+Leistung (kW)/Leistung (PS) = 290 kW / 394 PS
+Höchstgeschwindigkeit = 294 km/h
+Kraftstoff = Benzin
+
+VW Golf
+Baujahr = 2016
+Beschleunigung 0-100 km/h = 9,7 s
+Leistung (kW)/Leistung (PS) = 85 kW (115 PS)
+Höchstgeschwindigkeit = 204 km/h
+Kraftstoff = Diesel

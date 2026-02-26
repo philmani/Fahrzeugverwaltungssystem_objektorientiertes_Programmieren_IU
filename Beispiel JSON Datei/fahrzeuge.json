@@ -1,0 +1,47 @@
+[
+    {
+        "typ": "Auto",
+        "marke": "Porsche",
+        "modell": "911 Carrera",
+        "baujahr": 2025,
+        "geschwindigkeit": 294,
+        "beschleunigung": 4.1,
+        "kraftstoff": "Benzin"
+    },
+    {
+        "typ": "Auto",
+        "marke": "VW",
+        "modell": "Golf",
+        "baujahr": 2016,
+        "geschwindigkeit": 204,
+        "beschleunigung": 9.7,
+        "kraftstoff": "Diesel"
+    },
+    {
+        "typ": "Elektroauto",
+        "marke": "Porsche",
+        "modell": "Taycan Turbo",
+        "baujahr": 2024,
+        "geschwindigkeit": 260,
+        "beschleunigung": 2.7,
+        "energiequelle": "Strom"
+    },
+    {
+        "typ": "Elektroauto",
+        "marke": "VW",
+        "modell": "ID.3",
+        "baujahr": 2023,
+        "geschwindigkeit": 160,
+        "beschleunigung": 7.6,
+        "energiequelle": "Strom"
+    },
+    {
+        "typ": "Motorrad",
+        "marke": "Ducati",
+        "modell": "Panigale V4",
+        "baujahr": 2025,
+        "geschwindigkeit": 260,
+        "beschleunigung": 3.4,
+        "kraftstoff": "Benzin"
+    }
+]
